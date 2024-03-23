@@ -49,4 +49,4 @@ async def trash(ctx):
     elif msg.content in anorganic:
          await ctx.send("Put into anorganic trash can!")
 
-bot.run("MTIxMzQ3MDYyMjkzNjYwNDc2Mg.G_RjSl.zrGx-CUCJ_Pi8ZgiKv6Nuymmi7PDu7UvU56CZk")
+bot.run("token")
